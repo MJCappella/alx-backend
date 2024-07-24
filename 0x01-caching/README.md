@@ -15,5 +15,3 @@ This project contains tasks for learning to cache data.
 + [x] 4. **MRU Caching**<br/>[4-mru_cache.py](4-mru_cache.py) contains a Python class `MRUCache` that inherits from [`BaseCaching`](base_caching.py) and is a caching system:
 
 + [x] 5. **LFU Caching**<br/>[100-lfu_cache.py](100-lfu_cache.py) contains a Python class LFUCache that inherits from [`BaseCaching`](base_caching.py) and is a caching system:
-
-    + If `key` is `None` or if the `key` doesn't exist in `self.cache_data`, return `None`.
