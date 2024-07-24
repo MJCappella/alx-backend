@@ -10,7 +10,7 @@ This project contains tasks for learning to cache data.
 
 + [x] 2. **LIFO Caching**<br/>[2-lifo_cache.py](2-lifo_cache.py) 
 
-+ [x] 3. **LRU Caching**<br/>[3-lru_cache.py](3-lru_cache.py) contains a Python class `LRUCache` that inherits from [`BaseCaching`](base_caching.py) and is a caching system:
++ [x] 3. **LRU Caching**<br/>[3-lru_cache.py](3-lru_cache.py) 
 
 + [x] 4. **MRU Caching**<br/>[4-mru_cache.py](4-mru_cache.py) contains a Python class `MRUCache` that inherits from [`BaseCaching`](base_caching.py) and is a caching system:
 
